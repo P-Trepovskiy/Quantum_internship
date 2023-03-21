@@ -1,0 +1,2 @@
+To run this program, open 'Code and Analysis' file in any text editor that support .ipynb extension. All given datasets (internship_train.csv, internship_hidden_test.csv) must be in the same directory as this .ipynb file. Please run all blocks from top to bottom. After running the last block of this program, all model's predictions for test data will appear in the same directory as 'predictions.csv'. It contains dataset with given test data and predictions in column called 'predictions'. It is duplicated in the same directory as this readme file.
+Have fun!
