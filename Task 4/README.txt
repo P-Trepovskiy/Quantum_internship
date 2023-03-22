@@ -1,0 +1,1 @@
+To run this program, open 'Analysis' file in any text editor that support .ipynb extension. All given datasets (.jp2 image, OUTPUT.tif) must be in the same directory as this .ipynb file. Please run all blocks from top to bottom.
